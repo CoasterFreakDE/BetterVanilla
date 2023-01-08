@@ -1,0 +1,6 @@
+name: BetterVanilla
+main: one.devsky.bettervanilla.BetterVanilla
+version: 1.18.2
+description: "BetterVanilla is a plugin for Vanilla that adds a few new features to the Vanilla game."
+author: "CoasterFreakDE"
+api-version: 1.18
